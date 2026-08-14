@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-<!-- 贡献统计卡片 来源: github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Minecraftgoose&theme=transparent&show_icons=true&hide_border=true" />
+<!-- 贡献统计卡片 来源: github-profile-summary-cards（原 github-readme-stats 公共实例 503 时顶替） -->
+<img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minecraftgoose&theme=github_dark" />
 <!-- 连续提交火苗 来源: streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Minecraftgoose&theme=transparent&hide_border=true" />
 <br/>
 <!-- 提交热力图 来源: github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Minecraftgoose&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
-<!-- 编程语言占比（甜甜圈） 来源: github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraftgoose&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<!-- 编程语言占比 来源: github-profile-summary-cards -->
+<img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minecraftgoose&theme=github_dark" />
 <br/>
 <!-- 技能图标 来源: go-skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,vue,py" />
