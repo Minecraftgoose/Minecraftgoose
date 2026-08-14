@@ -3,10 +3,27 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Minecraftgoose!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-<!-- 打字机动效文字 来源: readme-typing-svg（lines 用 + 分隔多句话） -->
+<!-- 打字机动效文字 来源: readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Front-end+%26+web+dev+enthusiast;越写网页越上头+%F0%9F%A4%93" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Front-end+%26+web+dev+enthusiast;越写网页越上头" />
 </p>
+
+<!-- 终端风自我介绍（手写，不依赖第三方） -->
+### whoami
+
+```bash
+$ whoami
+Minecraftgoose — 前端 / 网页开发爱好者
+
+$ cat now.txt
+正在学网页开发，顺便把这个主页整得不像别人
+
+$ ./stack.sh
+html · css · js · ts · vue · python
+
+$ uptime
+写代码，偶尔摸鱼，循环往复
+```
 
 <p align="center">
 <!-- 贡献统计卡片 来源: github-profile-summary-cards（原 github-readme-stats 公共实例 503 时顶替） -->
@@ -16,6 +33,12 @@
 <br/>
 <!-- 提交热力图 来源: github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Minecraftgoose&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<br/>
+<!-- 3D 贡献图（GitHub Action 自托管，每天更新） 来源: yoshi389111/github-profile-3d-contrib -->
+<img width="800" src="profile-3d-contrib/profile-green-animate.svg" />
+<br/>
+<!-- 贪吃蛇吃贡献格（GitHub Action 自托管） 来源: Platane/snk -->
+<img width="800" src="dist/github-contribution-grid-snake-dark.svg" />
 <br/>
 <!-- 编程语言占比 来源: github-profile-summary-cards -->
 <img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minecraftgoose&theme=github_dark" />
