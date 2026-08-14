@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Minecraftgoose!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-<!-- 打字机动效文字 来源: readme-typing-svg -->
+<!-- 打字机动效文字（自托管 SVG，不依赖第三方域名） -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Front-end+%26+web+dev+enthusiast;越写网页越上头" />
+<img src="typing.svg" width="600" alt="typing animation" />
 </p>
 
 <!-- 终端风自我介绍（手写，不依赖第三方） -->

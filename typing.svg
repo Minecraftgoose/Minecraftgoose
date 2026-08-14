@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="50" viewBox="0 0 600 50" role="img" aria-label="typing animation">
+  <style>
+    .t { font-family: Consolas, "Courier New", monospace; font-size: 22px; fill: #58a6ff; font-weight: 600; }
+    .cursor { fill: #58a6ff; }
+  </style>
+
+  <clipPath id="c1">
+    <rect x="0" y="0" width="0" height="50">
+      <animate attributeName="width" values="0;600;600;0;0" keyTimes="0;0.166;0.30;0.333;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="c2">
+    <rect x="0" y="0" width="0" height="50">
+      <animate attributeName="width" values="0;0;600;600;0" keyTimes="0;0.333;0.5;0.633;0.667" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+  <clipPath id="c3">
+    <rect x="0" y="0" width="0" height="50">
+      <animate attributeName="width" values="0;0;600;600;0" keyTimes="0;0.667;0.833;0.95;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+
+  <text class="t" x="12" y="33" clip-path="url(#c1)">Welcome to my GitHub!</text>
+  <text class="t" x="12" y="33" clip-path="url(#c2)">Front-end &amp; web dev enthusiast</text>
+  <text class="t" x="12" y="33" clip-path="url(#c3)">越写网页越上头</text>
+</svg>
