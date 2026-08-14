@@ -8,22 +8,10 @@
 <img src="typing.svg" width="600" alt="typing animation" />
 </p>
 
-<!-- 终端风自我介绍（手写，不依赖第三方） -->
-### whoami
-
-```bash
-$ whoami
-Minecraftgoose — 前端 / 网页开发爱好者
-
-$ cat now.txt
-正在学网页开发，顺便把这个主页整得不像别人
-
-$ ./stack.sh
-html · css · js · ts · vue · python
-
-$ uptime
-写代码，偶尔摸鱼，循环往复
-```
+<!-- 终端风自我介绍（termstage 生成，纯 CSS 打字机动画 SVG，自托管） -->
+<p align="center">
+<img src="terminal.svg" width="720" alt="terminal" />
+</p>
 
 <p align="center">
 <!-- 贡献统计卡片 来源: github-profile-summary-cards（原 github-readme-stats 公共实例 503 时顶替） -->
