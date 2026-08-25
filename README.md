@@ -5,7 +5,7 @@
 <img src="typing.svg" width="600" alt="typing animation" />
 <br>
 <img width="800" src="dist/github-contribution-grid-snake-dark.svg" />
-<img width="800" src="profile-3d-contrib/profile-green-animate.svg" />
+<img width="800" src="profile-3d-contrib/profile-night-rainbow.svg" />
 <br/>
 <img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minecraftgoose&theme=github_dark" />
 <br/>
