@@ -8,7 +8,11 @@
 <img width="800" src="profile-3d-contrib/profile-night-rainbow.svg" />
 <br/>
 <img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minecraftgoose&theme=github_dark" />
-<br/>
+<br/></p>
+  
+---
+
+<p align="center">
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py" />
 </p>
 <p align="center">
